@@ -31,3 +31,4 @@ Clonando e Importando um Projeto no Eclipse:
 
 - Após importar o projeto, aguarde o Eclipse resolver as dependências Maven automaticamente.
 
+- Execute a classe 'PrincipalExperimento.java' que está na pasta 'src/main/java', no pacote 'visao'.
