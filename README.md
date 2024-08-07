@@ -26,6 +26,10 @@ Clonando e Importando um Projeto no Eclipse:
 - Selecione o branch que deseja clonar.
   Clique em Next
 
+----------------------------------------------------------------------------
+
+Os resultados e documentação estão no documento pdf.
+
 - Escolha um diretório local para o repositório clonado.
   Clique em Next.
 
