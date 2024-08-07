@@ -26,13 +26,13 @@ Clonando e Importando um Projeto no Eclipse:
 - Selecione o branch que deseja clonar.
   Clique em Next
 
-----------------------------------------------------------------------------
-
-Os resultados e documentação estão no documento pdf.
-
 - Escolha um diretório local para o repositório clonado.
   Clique em Next.
 
 - Após importar o projeto, aguarde o Eclipse resolver as dependências Maven automaticamente.
 
 - Execute a classe 'PrincipalExperimento.java' que está na pasta 'src/main/java', no pacote 'visao'.
+
+----------------------------------------------------------------------------
+
+Os resultados e documentação estão no documento pdf.
